@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 
 	// peer.Response is in the peer package
-    "github.com/hyperledger/fabric/protos/peer"
+    	"github.com/hyperledger/fabric/protos/peer"
 
 	// Conversion functions
 	"strconv"
